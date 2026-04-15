@@ -24,6 +24,7 @@ permalink: /
 次の行
 
 [リンク](https://www.google.co.jp/)
+[リンク](https://www.google.co.jp/)
 
 **太字**
 
