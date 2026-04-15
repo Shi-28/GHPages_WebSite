@@ -48,5 +48,5 @@ permalink: /
 | 内容  | 内容  |
 
 
-![image](/assets/images/a.png)
+![image](/GHPages_WebSite/assets/images/a.png)
 
